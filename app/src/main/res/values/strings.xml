@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">LandscapeVsPortait</string>
+    <string name="port">Portait</string>
+    <string name="land">Landscape</string>
 </resources>
